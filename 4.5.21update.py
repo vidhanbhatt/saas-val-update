@@ -5,7 +5,6 @@ import numpy as np
 import pandas as pd
 import requests
 import pandas as pd
-import matplotlib
 import seaborn as sns
 import datetime
 from matplotlib import dates
